@@ -1,0 +1,7 @@
+C:\Users\ME\Documents\SharpDevelop Projects\WinForm\WinForm\bin\Debug\WinForm.exe
+C:\Users\ME\Documents\SharpDevelop Projects\WinForm\WinForm\bin\Debug\WinForm.pdb
+C:\Users\ME\Documents\SharpDevelop Projects\WinForm\WinForm\obj\Debug\WinForm.csprojResolveAssemblyReference.cache
+C:\Users\ME\Documents\SharpDevelop Projects\WinForm\WinForm\obj\Debug\WinForm.MainForm.resources
+C:\Users\ME\Documents\SharpDevelop Projects\WinForm\WinForm\obj\Debug\WinForm.csproj.GenerateResource.Cache
+C:\Users\ME\Documents\SharpDevelop Projects\WinForm\WinForm\obj\Debug\WinForm.exe
+C:\Users\ME\Documents\SharpDevelop Projects\WinForm\WinForm\obj\Debug\WinForm.pdb

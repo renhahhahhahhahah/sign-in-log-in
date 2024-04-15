@@ -1,0 +1,7 @@
+C:\Users\ME\Documents\SharpDevelop Projects\WinForm\Form2\bin\Debug\Form2.exe
+C:\Users\ME\Documents\SharpDevelop Projects\WinForm\Form2\bin\Debug\Form2.pdb
+C:\Users\ME\Documents\SharpDevelop Projects\WinForm\Form2\obj\Debug\Form2.csprojResolveAssemblyReference.cache
+C:\Users\ME\Documents\SharpDevelop Projects\WinForm\Form2\obj\Debug\Form2.exe
+C:\Users\ME\Documents\SharpDevelop Projects\WinForm\Form2\obj\Debug\Form2.pdb
+C:\Users\ME\Documents\SharpDevelop Projects\WinForm\Form2\obj\Debug\Form2.Login_Form.resources
+C:\Users\ME\Documents\SharpDevelop Projects\WinForm\Form2\obj\Debug\Form2.csproj.GenerateResource.Cache
